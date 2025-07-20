@@ -1,0 +1,1 @@
+So far, I have learned how to use GitHub repositories, create branches, make commits, and submit pull requests. This course is helping me become confident with version control.

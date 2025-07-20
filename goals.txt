@@ -1,7 +1,7 @@
- My Personal and Academic Goals for Next Year
+My Personal and Academic Goals for Next Year
 
-- Improve my coding skills in Python and GitHub  
-- Complete my ALX Africa pathway successfully  
-- Enhance my English communication skills  
-- Start working on small data projects  
-- Build a professional portfolio website  
+- Learn advanced Git and GitHub features
+- Complete all course assignments on time
+- Improve coding skills in Python and C
+- Participate in a data science project
+- Build a portfolio with real projects
